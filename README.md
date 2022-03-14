@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanjethwani
 - 👀 I’m interested in exploring new technologies and building generic solutions to common coding problems.
-- 🌱 I’m currently learning advanced Java and Python.
+- 🌱 I’m currently honing my skills in advanced Java and Python and exploring Cloud technologies.
 - 📫 I'm reachable via my email jethwanirohan@gmail.com
 
 <!---
